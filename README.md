@@ -16,20 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, there.
+# 👋 嗨，你好~
 
-I'm xiaotian, a `python` bug coder.
+我是小天，喜欢捣鼓各种奇怪的玩意
 
 ![xiaotian's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaotian2333&show_icons=true)
 
-### 🎮 Genshin Impact Player
+### 💬 联系方式
 
-![Genshin Impact](https://genshin-card.getloli.com/rand/189985935.png)
-
-### 💬 Ask me anything
-
-```js
+``` js
 Q Q = 1719549416
-WeChat = gx_xiaotian
-Mail = 1719549416@qq.com
+Mail = xt@xt-url.com
 ```
